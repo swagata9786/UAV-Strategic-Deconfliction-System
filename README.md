@@ -23,4 +23,5 @@ A Python-based system for detecting, explaining, and resolving spatial-temporal 
    ```bash
    python main.py
 
-
+## Output
+<img width="1087" height="883" alt="Image" src="https://github.com/user-attachments/assets/7db31133-690b-4193-9a8e-718d80860b8b" />
