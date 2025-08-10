@@ -11,3 +11,8 @@ A Python-based system for detecting, explaining, and resolving spatial-temporal 
 
 ---
 
+## 🚀 How to Run
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/uav_deconfliction.git
+   cd uav_deconfliction
