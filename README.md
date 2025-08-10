@@ -16,3 +16,11 @@ A Python-based system for detecting, explaining, and resolving spatial-temporal 
    ```bash
    git clone https://github.com/yourusername/uav_deconfliction.git
    cd uav_deconfliction
+2. Install the required Python packages:
+   ```bash
+   pip install numpy matplotlib
+3. Run the main demo:
+   ```bash
+   python main.py
+
+
