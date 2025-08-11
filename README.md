@@ -14,7 +14,7 @@ A Python-based system for detecting, explaining, and resolving spatial-temporal 
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/uav_deconfliction.git
+   git clone https://github.com/swagata9786/UAV-Strategic-Deconfliction-System.git
    cd uav_deconfliction
 2. Install the required Python packages:
    ```bash
